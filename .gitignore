@@ -1,1 +1,2 @@
-statistics/data.csv
+stats/data.csv
+*/__pycache__
